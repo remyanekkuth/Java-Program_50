@@ -1,1 +1,0 @@
-Hello this is a sample text. This is to practice string replace.Replace a string with another string.  /nHello this document is to test . This is to practice string replace.Replace a string with another string.  
