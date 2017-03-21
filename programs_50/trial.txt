@@ -1,0 +1,4 @@
+this is a sample text file. Enter some words into it, so that we can count the number of string in the file
+
+
+Welcome to java programming.
